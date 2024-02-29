@@ -16,6 +16,7 @@ val orxFeatures = setOf<String>(
 //    "orx-gradient-descent",
     "orx-image-fit",
     "orx-noise",
+    // !no js "orx-panel",
 //    "orx-parameters",
 //    "orx-shade-styles",
 //    "orx-shader-phrases",
